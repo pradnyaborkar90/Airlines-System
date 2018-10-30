@@ -5,7 +5,7 @@ import  java.util.InputMismatchException;
 
 interface Header
 {
-	final String head="/*************************************************** QATAR AIRLINES *******************************************************************/";
+	final String head="/*************************************************** AIRLINES *******************************************************************/";
 	public void displayhead();
 }
 

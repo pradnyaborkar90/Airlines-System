@@ -584,7 +584,7 @@ class Airlines
 						cust[k].displaycust();
 					}	
 			
-			default:System.out.println("INVALID INPUT");	
+			default:System.out.println("INVALID PARAMETER");	
 			}
 
 		}
